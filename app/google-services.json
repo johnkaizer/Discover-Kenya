@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248358498758",
+    "project_id": "discoverskool",
+    "storage_bucket": "discoverskool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248358498758:android:8a4438df2d0b714e2802c7",
+        "android_client_info": {
+          "package_name": "com.project.elimu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248358498758-08rt53h64m3d6modfd0e2b94694s8nj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv2zTAm11pi3djUyN3ud2XLM5D5hH1cho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248358498758-08rt53h64m3d6modfd0e2b94694s8nj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
